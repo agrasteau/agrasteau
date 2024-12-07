@@ -27,17 +27,17 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
-  <!-- Laravel -->
+   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/> 
   </a>
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
   </a>
-  <!-- Robot Framework -->
+ <!-- Robot Framework -->
   <a href="https://robotframework.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robotframework/robotframework-original-wordmark.svg" alt="Robot Framework" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="Robot Framework" width="40" height="40"/> 
   </a>
   <!-- Java -->
   <a href="https://www.java.com/" target="_blank"> 
