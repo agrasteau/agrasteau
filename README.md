@@ -1,9 +1,9 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrasteau&layout=compact&theme=radical&custom_title=Alexandre%27s%20Most%20Used%20Languages" alt="Top Languages" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrasteau&layout=compact&theme=radical&custom_title=Alexandre%27s%20Most%20Used%20Languages" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=agrasteau&show_icons=true&theme=radical" alt="GitHub Stats" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agrasteau&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
