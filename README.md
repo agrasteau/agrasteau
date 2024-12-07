@@ -30,6 +30,9 @@
 ## 🌐 Connect with Me
 
 <div align="center">
+  <a href="mailto:alexandre.grasteau@orange.fr">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" width="40" height="40" />
+  </a>
   <a href="https://www.linkedin.com/in/alexandre-grasteau-6678a6261/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
   </a>
