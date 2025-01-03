@@ -1,7 +1,6 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrasteau&layout=compact&theme=radical&custom_title=Most%20Used%20Languages" alt="Top Languages" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=agrasteau&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
