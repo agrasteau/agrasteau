@@ -23,8 +23,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a>
+ <!-- TypeScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank"> 
